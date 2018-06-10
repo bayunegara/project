@@ -1,4 +1,7 @@
 # project employee
 
-Database name : employeedb
-Database connection configuration in "controller/databaseController.php"
+Database name : employeedb <br>
+Database connection configuration in "controller/databaseController.php" <br>
+Put all file into a folder w/ named "employee" and acces in web browser <br>
+
+
